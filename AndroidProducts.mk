@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/carbon_violet.mk
+    $(LOCAL_DIR)/legion_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    carbon_violet-userdebug \
-    carbon_violet-eng \
-    carbon_violet-user
+    legion_violet-userdebug \
+    legion_violet-eng \
+    legion_violet-user
