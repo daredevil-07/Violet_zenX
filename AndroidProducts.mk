@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/legion_violet.mk
+    $(LOCAL_DIR)/zenx_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    legion_violet-userdebug \
-    legion_violet-eng \
-    legion_violet-user
+    zenx_violet-userdebug \
+    zenx_violet-eng \
+    zenx_violet-user
